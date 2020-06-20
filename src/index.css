@@ -1,8 +1,7 @@
 body {
-  /* background-color: #313131; */
   margin: 0;
   color: #212121;
-  font-family: 'Varela Round', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   letter-spacing: -1px;
   background: linear-gradient(to right, #141e30, #243b55);
 }
@@ -14,13 +13,17 @@ h1{
   color:#52de97;
 }
 
+.fName{
+  font-family: 'Nova Mono', monospace;
+}
+
 .uName{
   font-family: 'VT323', monospace;
   font-size: 24px;
   color: #00ffff;
+  letter-spacing: 0.6px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+.email{
+  font-weight: bold;
 }
