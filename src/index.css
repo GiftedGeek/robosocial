@@ -1,9 +1,9 @@
 body {
   margin: 0;
+  background-color: #212121;
   color: #212121;
   font-family: 'Noto Sans', sans-serif;
   letter-spacing: -1px;
-  background: linear-gradient(to right, #141e30, #243b55);
 }
 
 h1{

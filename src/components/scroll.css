@@ -1,0 +1,8 @@
+.scrolling{
+    background: linear-gradient(to right, #141e30, #243b55);
+    overflow-y: scroll;
+    border: 2px solid #52de97;
+    border-radius: 16px;
+    height: 550px;
+    margin: 20px;
+}
