@@ -1,6 +1,7 @@
 # ROBOSOCIAL
 
 This is a Simple React App I created while lerning React's Basic and Fundamental Concepts like  Props, State, and React Lifecycle.
+Here is the [Live Example.](https://giftedgeek.github.io/robosocial/)
 
 ## Available Scripts
 
